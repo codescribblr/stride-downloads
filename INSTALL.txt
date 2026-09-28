@@ -1,0 +1,59 @@
+STRIDE 1.5.1 — DOWNLOAD, INSTALL, AND RESTORE
+
+Bookmark the public download page (no GitHub sign-in needed):
+https://github.com/codescribblr/stride-downloads/releases/latest
+
+Direct latest APK link:
+https://github.com/codescribblr/stride-downloads/releases/latest/download/Stride.apk
+
+INSTALL ON ANOTHER ANDROID PHONE OR TABLET
+1. Open the public download page in that device's browser.
+2. Download Stride.apk under Assets.
+   Do not choose Source code (zip/tar.gz). No GitHub account is required.
+3. Open the downloaded APK. If prompted, open Settings and allow installs
+   from that source (your browser or Files), then return and tap Install.
+4. Open Stride and allow notifications. In Settings, choose the reminder
+   time and test the coach's voice. Set the voice separately on each device.
+5. For outdoor routes, enable Record outdoor GPS and allow precise location.
+
+Android 8.0 or later is required. This is the signed personal debug build,
+version 1.5.1 (code 8). No Play Store account, GitHub account, or login inside
+Stride is needed. The installer is public; your workouts stay on your device
+and are not included in the download. Devices do not synchronize workouts.
+
+If Android specifically asks for developer verification, additional setup
+may apply on that device. See Google's current instructions:
+https://support.google.com/android/answer/17588095
+Managed devices may restrict installations outside their approved store.
+
+UPDATING
+Return to the same latest-release page to download a newer APK, then install
+it over Stride. Compatible updates preserve local data. Do not uninstall
+first. Updates are manual; the app does not automatically check or update.
+Save a full backup before changing phones or uninstalling.
+
+SETTING UP A REPLACEMENT PHONE
+The installer contains the app, not your personal workout history.
+On the old phone: Settings → Save full backup. Keep the resulting JSON file
+on your Mac or another device so it survives loss of the phone.
+On the new phone: install Stride, transfer that backup file, then select
+Settings → Restore from backup and confirm the replacement.
+Without a saved backup, reinstalling starts a new program. Devices do not
+synchronize, and restoring replaces current data rather than merging it.
+
+DURING YOUR WORKOUT
+Start your audiobook or podcast, then start the workout. Stride can run with
+the screen locked. Callouts request a brief pause and release audio focus
+when finished; the other player must honor Android audio focus.
+Headphone playback controls do not pause the workout.
+Use Stride's notification or Quick Settings workout tile to pause/continue.
+Callout volume in Settings controls speech relative to phone media volume.
+
+AFTER YOUR WORKOUT
+Progress → the workout shows its route on online street maps (viewed tiles
+are cached), time, distance, and export options. GPS recording works without
+map access. Local diagnostic reports can be exported or retrieved by USB.
+
+FILE INTEGRITY
+SHA256SUMS.txt accompanies this APK. On a Mac, with both files in the same
+folder: shasum -a 256 -c SHA256SUMS.txt
