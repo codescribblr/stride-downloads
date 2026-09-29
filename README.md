@@ -58,11 +58,11 @@ Export individual activities as **GPX or TCX**, or save a **full backup** to car
 3. Open Stride, allow notifications, choose your reminder time, and test the coach's voice in **Settings**.
 4. Start your first workout. Enable **Record outdoor GPS** in Settings if you'd like a route with it.
 
-**Already have Stride?** Install the newer APK over the existing app. Don't uninstall first. Updates are manual; bookmark this page to get the latest version.
+**Already have Stride?** Install the newer APK over the existing app. Don't uninstall first. In **Settings → Updates**, allow Stride to install updates once. It can then check for new versions while open, download them on Wi-Fi, and install when no workout is active. A countdown lets you postpone for the day. Android may ask for confirmation. This page remains available for manual downloads.
 
 ## Your progress stays yours
 
-Stride has no account, ads, analytics, or workout server. Your workout records stay on your device unless you export them. Street maps load online when viewed; the map provider receives your IP address and the map areas requested. Coaching can work offline with a downloaded Android voice.
+Stride has no account, ads, analytics, or workout server. Your workout records stay on your device unless you export them. Update checks and downloads connect to GitHub without sending workout data. Street maps load online when viewed; the map provider receives your IP address and the map areas requested. Coaching can work offline with a downloaded Android voice.
 
 Before replacing your phone, use **Settings → Save full backup** and copy that file somewhere safe off the phone. On the new phone, install Stride and choose **Restore from backup**. Downloading the app alone doesn't restore your history, and there is no automatic cloud backup.
 

@@ -1,4 +1,4 @@
-STRIDE 1.5.1 — DOWNLOAD, INSTALL, AND RESTORE
+STRIDE 1.6 — DOWNLOAD, INSTALL, AND RESTORE
 
 Bookmark the public download page (no GitHub sign-in needed):
 https://github.com/codescribblr/stride-downloads/releases/latest
@@ -17,7 +17,7 @@ INSTALL ON ANOTHER ANDROID PHONE OR TABLET
 5. For outdoor routes, enable Record outdoor GPS and allow precise location.
 
 Android 8.0 or later is required. This is the signed personal debug build,
-version 1.5.1 (code 8). No Play Store account, GitHub account, or login inside
+version 1.6 (code 9). No Play Store account, GitHub account, or login inside
 Stride is needed. The installer is public; your workouts stay on your device
 and are not included in the download. Devices do not synchronize workouts.
 
@@ -27,9 +27,19 @@ https://support.google.com/android/answer/17588095
 Managed devices may restrict installations outside their approved store.
 
 UPDATING
-Return to the same latest-release page to download a newer APK, then install
-it over Stride. Compatible updates preserve local data. Do not uninstall
-first. Updates are manual; the app does not automatically check or update.
+In Stride 1.6 and later, open Settings → Updates → Allow Stride updates,
+then turn on Android's Allow from this source switch. This is a one-time
+setup on each device. Automatic updates and Wi-Fi-only downloads start on.
+Stride checks while open, downloads and verifies the newer APK, and gives
+you a 10-second countdown before installing. Choose Update later to postpone
+for 24 hours. No installation happens during running or paused workouts.
+The app may close during installation; open it again to continue. Android
+may ask for confirmation. Checks resume when Stride is open; there is no
+periodic checking while the app is closed. Use Check now to retry immediately.
+You can disable automatic updates or Wi-Fi-only downloads in Settings.
+
+The public download page still works for manual installation. Install updates
+over Stride; do not uninstall first. Compatible updates preserve local data.
 Save a full backup before changing phones or uninstalling.
 
 SETTING UP A REPLACEMENT PHONE
