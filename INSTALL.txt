@@ -1,4 +1,4 @@
-STRIDE 1.6 — DOWNLOAD, INSTALL, AND RESTORE
+STRIDE 1.6.1 — DOWNLOAD, INSTALL, AND RESTORE
 
 Bookmark the public download page (no GitHub sign-in needed):
 https://github.com/codescribblr/stride-downloads/releases/latest
@@ -17,7 +17,7 @@ INSTALL ON ANOTHER ANDROID PHONE OR TABLET
 5. For outdoor routes, enable Record outdoor GPS and allow precise location.
 
 Android 8.0 or later is required. This is the signed personal debug build,
-version 1.6 (code 9). No Play Store account, GitHub account, or login inside
+version 1.6.1 (code 10). No Play Store account, GitHub account, or login inside
 Stride is needed. The installer is public; your workouts stay on your device
 and are not included in the download. Devices do not synchronize workouts.
 
