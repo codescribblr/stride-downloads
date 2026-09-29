@@ -10,7 +10,7 @@ A gentle path from getting started to your first 5K.<br>
 
 **Android 8.0+ · No account · No ads · No subscription**
 
-[How to install](#get-started) · [Installation & backup guide](https://github.com/codescribblr/stride-downloads/blob/main/INSTALL.txt)
+[How to install](https://github.com/codescribblr/stride-downloads#get-started) · [Installation & backup guide](https://github.com/codescribblr/stride-downloads/blob/main/INSTALL.txt)
 
 </div>
 
