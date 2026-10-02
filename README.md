@@ -31,7 +31,7 @@ Getting back into exercise should feel manageable. Choose **Couch to 5K** to sta
 ## A plan that makes room for life
 
 - **Choose your path.** Couch to 5K starts gently with walk/jog intervals. 5K to 10K builds endurance with easy runs, longer outings, and lighter weeks. Both include walking warm-ups and cool-downs.
-- **Keep your place.** Change plans anytime between workouts. Each path saves its progress; inactive plans do not count missed days.
+- **Keep your place.** Open **Your plan → Change plan** anytime between workouts. Each path saves its progress; inactive plans do not count missed days.
 - **Recover between workouts.** Rest days are part of the plan. If you choose to move ahead, you can start the next workout early.
 - **Come back without guilt.** Miss a day and the same workout waits for you, with encouragement. After five consecutive missed workout-due days, Stride steps back one workout to ease you back in.
 - **Keep a gentle reminder.** Choose a daily reminder time for that day's workout or recovery.
