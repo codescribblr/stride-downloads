@@ -1,4 +1,4 @@
-STRIDE 1.6.1 — DOWNLOAD, INSTALL, AND RESTORE
+STRIDE 1.7 — DOWNLOAD, INSTALL, AND RESTORE
 
 Bookmark the public download page (no GitHub sign-in needed):
 https://github.com/codescribblr/stride-downloads/releases/latest
@@ -12,12 +12,12 @@ INSTALL ON ANOTHER ANDROID PHONE OR TABLET
    Do not choose Source code (zip/tar.gz). No GitHub account is required.
 3. Open the downloaded APK. If prompted, open Settings and allow installs
    from that source (your browser or Files), then return and tap Install.
-4. Open Stride and allow notifications. In Settings, choose the reminder
+4. Open Stride, choose your plan, and allow notifications. In Settings, choose the reminder
    time and test the coach's voice. Set the voice separately on each device.
 5. For outdoor routes, enable Record outdoor GPS and allow precise location.
 
 Android 8.0 or later is required. This is the signed personal debug build,
-version 1.6.1 (code 10). No Play Store account, GitHub account, or login inside
+version 1.7 (code 11). No Play Store account, GitHub account, or login inside
 Stride is needed. The installer is public; your workouts stay on your device
 and are not included in the download. Devices do not synchronize workouts.
 
@@ -44,6 +44,7 @@ Save a full backup before changing phones or uninstalling.
 
 SETTING UP A REPLACEMENT PHONE
 The installer contains the app, not your personal workout history.
+Full backups include progress in every plan and the shared journal.
 On the old phone: Settings → Save full backup. Keep the resulting JSON file
 on your Mac or another device so it survives loss of the phone.
 On the new phone: install Stride, transfer that backup file, then select

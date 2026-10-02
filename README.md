@@ -3,8 +3,8 @@
 # stride
 ### A little further. One workout at a time.
 
-A gentle path from getting started to your first 5K.<br>
-36 guided workouts. Room to recover. A coach in your pocket.
+From your first steps to 5K, then a little further to 10K.<br>
+Two 12-week paths. 36 guided workouts each. Room to recover. A coach in your pocket.
 
 <a href="https://github.com/codescribblr/stride-downloads/releases/latest/download/Stride.apk"><img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/download.svg" alt="Download Stride for Android" width="340"></a>
 
@@ -18,11 +18,11 @@ A gentle path from getting started to your first 5K.<br>
 
 ## Start where you are
 
-Getting back into exercise should feel manageable. Stride starts with a walk, introduces short jogs, and gradually builds toward a 5K over a 12-week plan. Open the app, see what's next, and tap the big start button. Your coach takes care of the timing.
+Getting back into exercise should feel manageable. Choose **Couch to 5K** to start with a walk and gradually build toward your first 5K. Already comfortable with an easy 5 km? Choose **5K to 10K** for your next 12-week chapter. Open the app, see what's next, and tap the big start button. Your coach takes care of the timing.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/today.png" width="30%" alt="Today: a welcoming first workout and a large start button">
-<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/plan.png" width="30%" alt="Your plan: 36 workouts organized into twelve weeks">
+<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/plans.png" width="30%" alt="Choose your path: Couch to 5K or 5K to 10K">
 <img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/workout.png" width="30%" alt="Workout: a clear interval timer with pause and continue controls">
 </p>
 
@@ -30,7 +30,8 @@ Getting back into exercise should feel manageable. Stride starts with a walk, in
 
 ## A plan that makes room for life
 
-- **Build gradually.** Walking warm-ups, walk/jog intervals, and cool-downs lead into longer running sessions.
+- **Choose your path.** Couch to 5K starts gently with walk/jog intervals. 5K to 10K builds endurance with easy runs, longer outings, and lighter weeks. Both include walking warm-ups and cool-downs.
+- **Keep your place.** Change plans anytime between workouts. Each path saves its progress; inactive plans do not count missed days.
 - **Recover between workouts.** Rest days are part of the plan. If you choose to move ahead, you can start the next workout early.
 - **Come back without guilt.** Miss a day and the same workout waits for you, with encouragement. After five consecutive missed workout-due days, Stride steps back one workout to ease you back in.
 - **Keep a gentle reminder.** Choose a daily reminder time for that day's workout or recovery.
@@ -47,15 +48,15 @@ Pause or continue from the workout screen, notification, or optional Quick Setti
 
 ## See how far you've come
 
-Your journal keeps completed workouts, time, reflections, and milestones. Turn on optional outdoor GPS to record your route, distance, and pace, then explore your workout on a street map afterward.
+One journal keeps workouts from every path, labeled by plan. Filter it by plan or see everything together. Total effort spans both plans; milestones follow your current path. Turn on optional outdoor GPS to record your route, distance, and pace, then explore your workout on a street map afterward.
 
-Export individual activities as **GPX or TCX**, or save a **full backup** to carry your progress to another phone. There are no connected fitness accounts or automatic cross-device syncing.
+Export individual activities as **GPX or TCX**, or save a **full backup** to carry all your plans and progress to another phone. There are no connected fitness accounts or automatic cross-device syncing.
 
 ## Get started
 
 1. **[Download Stride.apk](https://github.com/codescribblr/stride-downloads/releases/latest/download/Stride.apk)** on your Android phone. No GitHub sign-in is needed.
 2. Open the file. If Android asks, allow installation from your browser or Files, then tap **Install**.
-3. Open Stride, allow notifications, choose your reminder time, and test the coach's voice in **Settings**.
+3. Open Stride, choose your plan, allow notifications, choose your reminder time, and test the coach's voice in **Settings**.
 4. Start your first workout. Enable **Record outdoor GPS** in Settings if you'd like a route with it.
 
 **Already have Stride?** Install the newer APK over the existing app. Don't uninstall first. In **Settings → Updates**, allow Stride to install updates once. It can then check for new versions while open, download them on Wi-Fi, and install when no workout is active. A countdown lets you postpone for the day. Android may ask for confirmation. This page remains available for manual downloads.
