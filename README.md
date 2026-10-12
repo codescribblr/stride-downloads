@@ -38,6 +38,23 @@ Getting back into exercise should feel manageable. Choose **Couch to 5K** to sta
 
 Twelve weeks is a guide, not a deadline. Take walk breaks and extra recovery whenever you need them.
 
+## A reason to return, even on rest days
+
+Your daily mission follows your training day. Complete a workout when it is due, or take a short recovery check-in on a rest day. Full rest counts; you do not need to add exercise to earn credit.
+
+- **Build a weekly rhythm.** Five days in a Monday–Sunday week grow your consistency streak. Your total days invested keep adding up.
+- **Collect small wins.** Eight badges celebrate your first workout, recovery, planning ahead, and coming back. Earned badges stay yours when a streak ends.
+- **Make room for tomorrow.** Choose an optional time for your next workout, or deliberately move today's workout to tomorrow when you need more time.
+- **Take a real break.** Pause training and reminders, then resume with your progress intact. Resetting all progress also clears your badge collection.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/recovery.png" width="30%" alt="Recovery day with a short daily check-in">
+<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/rhythm.png" width="30%" alt="Weekly consistency and days invested">
+<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/badges.png" width="30%" alt="Eight badges with a consistent card layout">
+</p>
+
+<p align="center"><em>Rest counts. Small wins add up. Your pace is enough.</em></p>
+
 ## Keep your book. Let Stride do the coaching.
 
 Spoken cues tell you when to walk, jog, or run, and how long each interval lasts. The workout keeps going while your screen is locked or another app is open.
