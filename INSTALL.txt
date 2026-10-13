@@ -1,4 +1,4 @@
-STRIDE 1.8 — DOWNLOAD, INSTALL, AND RESTORE
+STRIDE 1.9 — DOWNLOAD, INSTALL, AND RESTORE
 
 Bookmark the public download page (no GitHub sign-in needed):
 https://github.com/codescribblr/stride-downloads/releases/latest
@@ -17,7 +17,7 @@ INSTALL ON ANOTHER ANDROID PHONE OR TABLET
 5. For outdoor routes, enable Record outdoor GPS and allow precise location.
 
 Android 8.0 or later is required. This is the signed personal debug build,
-version 1.8 (code 13). No Play Store account, GitHub account, or login inside
+version 1.9 (code 14). No Play Store account, GitHub account, or login inside
 Stride is needed. The installer is public; your workouts stay on your device
 and are not included in the download. Devices do not synchronize workouts.
 
@@ -28,8 +28,9 @@ Managed devices may restrict installations outside their approved store.
 
 UPDATING
 In Stride 1.6 and later, open Settings → Updates → Allow Stride updates,
-then turn on Android's Allow from this source switch. This is a one-time
-setup on each device. Automatic updates and Wi-Fi-only downloads start on.
+then turn on Android's Allow from this source switch. Set this up
+on each device; Android may remove access when an app is unused.
+Automatic updates and Wi-Fi-only downloads start on.
 Stride checks while open, downloads and verifies the newer APK, and gives
 you a 10-second countdown before installing. Choose Update later to postpone
 for 24 hours. No installation happens during running or paused workouts.
@@ -41,6 +42,16 @@ You can disable automatic updates or Wi-Fi-only downloads in Settings.
 The public download page still works for manual installation. Install updates
 over Stride; do not uninstall first. Compatible updates preserve local data.
 Save a full backup before changing phones or uninstalling.
+
+RESTORING PERMISSIONS
+When you open Stride, it checks access for features you have enabled. If
+reminders, outdoor GPS, or automatic updates need attention, a checklist
+opens with buttons to the relevant Android settings. For GPS permission,
+open Permissions → Location and allow precise location while using Stride.
+Use Android Back to return; the checklist stays open and marks restored
+items as successful. You can continue for now or review access later in
+Settings → Review app permissions. Reviews wait until no workout is active
+or saved, and updates wait while the checklist is open.
 
 SETTING UP A REPLACEMENT PHONE
 The installer contains the app, not your personal workout history.

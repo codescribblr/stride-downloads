@@ -78,6 +78,17 @@ Export individual activities as **GPX or TCX**, or save a **full backup** to car
 
 **Already have Stride?** Install the newer APK over the existing app. Don't uninstall first. In **Settings → Updates**, allow Stride to install updates once. It can then check for new versions while open, download them on Wi-Fi, and install when no workout is active. A countdown lets you postpone for the day. Android may ask for confirmation. This page remains available for manual downloads.
 
+## Keep your features ready
+
+Android can remove permissions when an app has not been used for a while. Stride checks the features you have enabled when you open it. If reminders, outdoor GPS, or automatic updates need access, a short checklist helps you restore it.
+
+Open the relevant Android settings from each item, then use Android Back to return. Your checklist stays open, and restored items turn green. Choose **Not now** when you need to move on, or open **Settings → Review app permissions** anytime between workouts.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/permissions.png" width="30%" alt="Permission checklist with settings buttons for enabled features">
+<img src="https://raw.githubusercontent.com/codescribblr/stride-downloads/main/assets/permissions-restored.png" width="30%" alt="All permissions restored with green success indicators">
+</p>
+
 ## Your progress stays yours
 
 Stride has no account, ads, analytics, or workout server. Your workout records stay on your device unless you export them. Update checks and downloads connect to GitHub without sending workout data. Street maps load online when viewed; the map provider receives your IP address and the map areas requested. Coaching can work offline with a downloaded Android voice.
