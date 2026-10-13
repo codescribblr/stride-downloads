@@ -103,3 +103,7 @@ Stride is a personal Android app distributed directly as a signed APK outside th
 [Full installation and restore instructions](https://github.com/codescribblr/stride-downloads/blob/main/INSTALL.txt) · [All releases and checksums](https://github.com/codescribblr/stride-downloads/releases)
 
 </details>
+
+## Privacy and support
+
+[Stride privacy policy](https://codescribblr.github.io/stride-downloads/privacy.html) · [Contact JRWDevelopment](mailto:support@jrwdev.com)
